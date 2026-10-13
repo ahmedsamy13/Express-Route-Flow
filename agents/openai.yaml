@@ -1,0 +1,4 @@
+interface:
+  display_name: "Express Route Flow"
+  short_description: "Map Express routes into Middleware Flow walkthroughs"
+  default_prompt: "Use $express-route-flow to analyze this Express app and create a route-by-route guide with validated SMSM Middleware Flow scenarios."
